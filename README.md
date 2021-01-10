@@ -1,5 +1,5 @@
-# Explore-US-Bikeshare-Data
-Project for the Udacity course "Fundamentals of Data Science"
+## Explore-US-Bikeshare-Data
+-Project for the Udacity course "Fundamentals of Data Science"
 
 
 All of the code was do it by me searching through StackOverflow.com, w3schools.com/python, Pandas documentation and google searchs.
